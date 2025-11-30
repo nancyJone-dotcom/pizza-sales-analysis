@@ -61,7 +61,7 @@ Insights for improving pricing & product strategies
 
 🎯 Revenue Drivers & Insights
 
-6. 🖼️ Screenshots of the Dashboard
+6. 🖼️ Screenshots of the Dashboard - https://github.com/nancyJone-dotcom/pizza-sales-analysis/blob/main/Snapshot%20of%20Pizza%20Sales%20Analysis.png
 
 
 
